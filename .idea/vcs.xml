@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Python&amp;Bdd/MP2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Python&amp;Bdd/Mp3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_Bdd/MP2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_Bdd/Mp3" vcs="Git" />
   </component>
 </project>
